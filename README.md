@@ -41,7 +41,7 @@ Split
 
 
 move pointer
-```
+```html
 ^b +  &#8594;
 ^b + &#8592;
 ^b + &#8593;
