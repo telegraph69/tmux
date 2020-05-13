@@ -1,4 +1,4 @@
-###### tmux
+####### tmux
 ---
 
 list sessions
@@ -8,20 +8,18 @@ tmux ls
 ...
 ```
 
-add to some one 
+connect session  
 ```
 tmux a -t >"name"<
 ```
 ===================
-~~Test~~
 
-
-great a new one 
+new session 
 ```
 tmux new -s >"name"<
 ```
 
-split
+split window
 ```
 ^b + "
 ```
@@ -52,10 +50,8 @@ ______
 ^b + &#8595;
 ______
 
-------
 
 kill pane 
-
 ```
 ^b + x
 ```
@@ -65,10 +61,4 @@ set option
 ^b + :
 synchronize-panes
 set-option -g mouse on
-
 ```
-
-
-
-
-
