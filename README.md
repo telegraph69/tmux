@@ -12,7 +12,6 @@ connect session
 ```
 tmux a -t >"name"<
 ```
-===================
 
 new session 
 ```
