@@ -58,6 +58,6 @@ kill pane
 set option 
 ```
 ^b + :
-synchronize-panes
+set-option synchronize-panes
 set-option -g mouse on
 ```
