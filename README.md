@@ -1,4 +1,4 @@
-####### tmux
+tmux
 ---
 
 list sessions
