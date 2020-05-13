@@ -19,7 +19,7 @@ new session
 tmux new -s >"name"<
 ```
 
-split window
+split 
 ```
 ^b + "
 ```
