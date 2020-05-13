@@ -1,4 +1,5 @@
-###### *tmux*
+###### tmux
+---
 
 list sessions
 ```
@@ -36,6 +37,9 @@ Split
 |	|	|
 |-------|-------|
 ||x|
+
+move pointer
+^b +  &#8594;
 
 
 
