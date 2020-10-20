@@ -61,3 +61,9 @@ set option
 set-option synchronize-panes
 set-option -g mouse on
 ```
+
+
+leave session 
+```
+Ctrl+ b d or Ctrl+ b :detach
+``` 
